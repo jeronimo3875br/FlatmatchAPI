@@ -71,7 +71,7 @@ Route responsible for changing payment data for a specific property. This rora r
       
   body: 
     price: 
-      type: "Number"
+      type: "String"
       description: "Price paid for the ad."
       
     method: 
